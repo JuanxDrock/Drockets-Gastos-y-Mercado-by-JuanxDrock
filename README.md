@@ -5,7 +5,7 @@ App de finanzas personales: Drockets 💰 Nació de una necesidad propia: llevar
 
 Drockets es una aplicación móvil para Android que ayuda a llevar el control de los gastos del día a día y a planear el presupuesto del mercado. Registras lo que gastas, vas anotando lo que echas al carrito mientras compras, ves el total que vas a pagar en caja y te das cuenta de qué productos subieron o bajaron de precio.
 
-> **Estado del proyecto:** uso privado. Este repositorio solo describe la aplicación; el código fuente no está publicado y la app no está disponible para descarga.
+> **Estado del proyecto:** uso privado. Este repositorio solo describe la aplicación; el código fuente no está publicado y la app proximamente estara en Play Store para su descarga.
 
 ---
 
