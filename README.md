@@ -1,8 +1,6 @@
 # Drockets-Gastos-y-Mercado-by-JuanxDrock
 App de finanzas personales: Drockets 💰 Nació de una necesidad propia: llevar mis gastos diarios y saber cuánto voy a pagar en caja cuando voy al mercado, sin hacer cuentas a ojo.
 
-# Drockets
-
 **Gastos y mercado en tu bolsillo.**
 
 Drockets es una aplicación móvil para Android que ayuda a llevar el control de los gastos del día a día y a planear el presupuesto del mercado. Registras lo que gastas, vas anotando lo que echas al carrito mientras compras, ves el total que vas a pagar en caja y te das cuenta de qué productos subieron o bajaron de precio.
