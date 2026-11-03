@@ -40,7 +40,7 @@ You can access, correct or delete your data at any time. These rights are also r
 
 - **In the app:** **Summary** tab > **Delete my account**.
 - **By email:** write to **businessjuanxdrocktech@zohomail.com** from the email you signed up with. I will respond and delete your data within 30 days.
-- Deletion instructions: https://TU-PROYECTO.web.app/eliminar-cuenta.html
+- Deletion instructions: https://github.com/JuanxDrock/Drockets-Gastos-y-Mercado-by-JuanxDrock/blob/main/eliminar-cuenta.md
 
 ### 7. Children
 
@@ -92,7 +92,7 @@ Puedes acceder, corregir o eliminar tus datos en cualquier momento, y estos dere
 
 - **Desde la app:** pestaña **Resumen** > **Eliminar mi cuenta**.
 - **Por correo:** escribe a **businessjuanxdrocktech@zohomail.com** desde el correo con el que te registraste. Respondo y elimino tus datos en máximo 30 días.
-- Instrucciones de eliminación: https://TU-PROYECTO.web.app/eliminar-cuenta.html
+- Instrucciones de eliminación: https://github.com/JuanxDrock/Drockets-Gastos-y-Mercado-by-JuanxDrock/blob/main/eliminar-cuenta.md
 
 ### 7. Menores de edad
 
